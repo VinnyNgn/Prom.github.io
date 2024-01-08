@@ -29,6 +29,15 @@ body {
     margin-top: 20px;
     margin-bottom: 0px;
 }
+.Dear_text {
+    font-family: 'Nunito';
+    font-size: 60px;
+    font-weight: Medium-bold;
+    color: white;
+    text-align: Top;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
 
 .buttons {
     display: flex;
