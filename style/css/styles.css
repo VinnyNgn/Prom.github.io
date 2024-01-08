@@ -31,10 +31,10 @@ body {
 }
 .dear_text {
     font-family: 'Nunito';
-    font-size: 60px;
+    font-size: 55px;
     font-weight: Medium-bold;
     color: white;
-    text-align: Top;
+    text-align: center;
     margin-top: 20px;
     margin-bottom: 0px;
     margin-block-end: 0em;
